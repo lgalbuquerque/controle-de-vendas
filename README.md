@@ -1,6 +1,11 @@
 # 📱 Controle de Vendas – Projeto Android
 
-Aplicativo simples desenvolvido com Jetpack Compose para registrar vendas de produtos, calcular totais e praticar conceitos de UI moderna no Android.
+Projeto de Extensão – Faculdade
+Este aplicativo foi desenvolvido como parte de um projeto de extensão acadêmica, com o objetivo de praticar o desenvolvimento de aplicações Android modernas utilizando Jetpack Compose.
+
+Desenvolvido por: Luiz Gabriel Albuquerque
+Instituição: Estácio de Sá
+Ano: 2025
 
 ## Funcionalidades
 - Cadastro de produto, quantidade e valor
@@ -16,7 +21,7 @@ Aplicativo simples desenvolvido com Jetpack Compose para registrar vendas de pro
 - Android Studio Giraffe ou superior
 
 ## Captura de tela
-![image](https://github.com/user-attachments/assets/c32a00c6-6c4b-4b5b-885d-484fe71cebbf
+![image](https://github.com/user-attachments/assets/75510521-1e9b-4e60-991d-9a5262f6687f)
 
 ## 📦 Como rodar
 1. Clone o repositório:
