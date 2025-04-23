@@ -26,4 +26,5 @@ Ano: 2025
 ## 📦 Como rodar
 1. Clone o repositório:
 ```bash
-git clone https://github.com/lgalbuquerque/controle-de-vendas.git
+git clone
+https://github.com/lgalbuquerque/controle-de-vendas.git
